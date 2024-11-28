@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: "Rubik Vinyl", system-ui;
+  font-weight: 500;
+  font-style: normal;
+background-image: url("./assets/Body.jpg");
+background-repeat: no-repeat;
+background-size: 1600px;
+
+}
+#image{
+  max-width: 1200px;
+height: 900px;
+  background-image: url("./assets/HomePage.avif");
+  background-repeat: no-repeat;
+  background-size: 900px;
+  margin: 0 auto;
+}
